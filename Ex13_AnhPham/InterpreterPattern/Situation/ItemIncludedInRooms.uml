@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>InterpreterPattern.Situation</OriginalElement>
+  <nodes>
+    <node x="137.5" y="248.0">InterpreterPattern.Situation.InterpreterPattern</node>
+    <node x="122.5" y="0.0">InterpreterPattern.Situation.Room</node>
+    <node x="231.0" y="101.0">InterpreterPattern.Situation.BedRoom</node>
+    <node x="0.0" y="101.0">InterpreterPattern.Situation.BathRoom</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="InterpreterPattern.Situation.BedRoom" target="InterpreterPattern.Situation.Room">
+      <point x="0.0" y="-48.5" />
+      <point x="336.5" y="76.0" />
+      <point x="270.25" y="76.0" />
+      <point x="49.25" y="25.5" />
+    </edge>
+    <edge source="InterpreterPattern.Situation.BathRoom" target="InterpreterPattern.Situation.Room">
+      <point x="0.0" y="-48.5" />
+      <point x="105.5" y="76.0" />
+      <point x="171.75" y="76.0" />
+      <point x="-49.25" y="25.5" />
+    </edge>
+    <edge source="InterpreterPattern.Situation.InterpreterPattern" target="InterpreterPattern.Situation.BedRoom">
+      <point x="41.75" y="-25.5" />
+      <point x="262.75" y="223.0" />
+      <point x="336.5" y="223.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="InterpreterPattern.Situation.InterpreterPattern" target="InterpreterPattern.Situation.BathRoom">
+      <point x="-41.75" y="-25.5" />
+      <point x="179.25" y="223.0" />
+      <point x="105.5" y="223.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="221.0" y="149.5" />
+  <SelectedNodes>
+    <node>InterpreterPattern.Situation.InterpreterPattern</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

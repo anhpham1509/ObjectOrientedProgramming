@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>IteratorPattern.Situation</OriginalElement>
+  <nodes>
+    <node x="263.25" y="418.0">IteratorPattern.Situation.IteratorPattern</node>
+    <node x="0.0" y="147.0">IteratorPattern.Situation.Container</node>
+    <node x="336.0" y="124.0">IteratorPattern.Situation.Item</node>
+    <node x="158.00000000000003" y="0.0">IteratorPattern.Situation.Iterator</node>
+    <node x="130.96428571428572" y="271.0">IteratorPattern.Situation.ItemStorage</node>
+    <node x="168.00000000000003" y="124.0">IteratorPattern.Situation.ItemStorage.NameIterator</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="IteratorPattern.Situation.ItemStorage" target="IteratorPattern.Situation.Container">
+      <point x="-81.75" y="-48.5" />
+      <point x="158.21428571428572" y="246.0" />
+      <point x="74.0" y="246.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="IteratorPattern.Situation.IteratorPattern" target="IteratorPattern.Situation.Item">
+      <point x="41.75000000000001" y="-25.5" />
+      <point x="388.5" y="393.0" />
+      <point x="461.25" y="393.0" />
+      <point x="41.75" y="48.5" />
+    </edge>
+    <edge source="IteratorPattern.Situation.ItemStorage" target="IteratorPattern.Situation.ItemStorage.NameIterator">
+      <point x="-27.25" y="-48.5" />
+      <point x="212.71428571428572" y="246.0" />
+      <point x="205.00000000000003" y="246.0" />
+      <point x="-37.0" y="48.5" />
+    </edge>
+    <edge source="IteratorPattern.Situation.ItemStorage.NameIterator" target="IteratorPattern.Situation.ItemStorage">
+      <point x="37.0" y="48.5" />
+      <point x="279.0" y="246.0" />
+      <point x="267.2142857142857" y="246.0" />
+      <point x="27.25" y="-48.5" />
+    </edge>
+    <edge source="IteratorPattern.Situation.ItemStorage.NameIterator" target="IteratorPattern.Situation.Iterator">
+      <point x="0.0" y="-48.5" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="IteratorPattern.Situation.IteratorPattern" target="IteratorPattern.Situation.ItemStorage">
+      <point x="-41.75" y="-25.5" />
+      <point x="305.0" y="393.0" />
+      <point x="239.96428571428572" y="393.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="IteratorPattern.Situation.ItemStorage" target="IteratorPattern.Situation.Item">
+      <point x="81.75" y="-48.5" />
+      <point x="321.7142857142857" y="246.0" />
+      <point x="377.75" y="246.0" />
+      <point x="-41.75" y="48.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7341513292433538" x="251.5" y="234.5" />
+  <SelectedNodes>
+    <node>IteratorPattern.Situation.IteratorPattern</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

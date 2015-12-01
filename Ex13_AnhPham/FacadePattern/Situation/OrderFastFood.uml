@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>FacadePattern.Situation</OriginalElement>
+  <nodes>
+    <node x="217.3214285714286" y="0.0">FacadePattern.Situation.FastFood</node>
+    <node x="0.0" y="101.0">FacadePattern.Situation.FrenchFries</node>
+    <node x="288.0" y="101.0">FacadePattern.Situation.Hamburger</node>
+    <node x="190.71428571428572" y="437.0">FacadePattern.Situation.FacadePattern</node>
+    <node x="117.71428571428572" y="202.0">FacadePattern.Situation.FastFoodOrder</node>
+    <node x="144.00000000000003" y="101.0">FacadePattern.Situation.FriedChicken</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="FacadePattern.Situation.FastFoodOrder" target="FacadePattern.Situation.FriedChicken">
+      <point x="-39.125" y="-92.5" />
+      <point x="235.08928571428572" y="177.0" />
+      <point x="206.00000000000003" y="177.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="FacadePattern.Situation.Hamburger" target="FacadePattern.Situation.FastFood">
+      <point x="0.0" y="-25.5" />
+      <point x="350.0" y="81.0" />
+      <point x="294.8214285714286" y="81.0" />
+      <point x="15.5" y="25.5" />
+    </edge>
+    <edge source="FacadePattern.Situation.FastFoodOrder" target="FacadePattern.Situation.Hamburger">
+      <point x="39.125" y="-92.5" />
+      <point x="313.3392857142857" y="177.0" />
+      <point x="350.0" y="177.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="FacadePattern.Situation.FastFoodOrder" target="FacadePattern.Situation.FrenchFries">
+      <point x="-117.375" y="-92.5" />
+      <point x="156.83928571428572" y="177.0" />
+      <point x="62.0" y="177.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="FacadePattern.Situation.FrenchFries" target="FacadePattern.Situation.FastFood">
+      <point x="0.0" y="-25.5" />
+      <point x="62.0" y="71.0" />
+      <point x="232.8214285714286" y="71.0" />
+      <point x="-46.5" y="25.5" />
+    </edge>
+    <edge source="FacadePattern.Situation.FastFoodOrder" target="FacadePattern.Situation.FastFood">
+      <point x="117.375" y="-92.5" />
+      <point x="391.5892857142857" y="177.0" />
+      <point x="422.5" y="177.0" />
+      <point x="422.5" y="71.0" />
+      <point x="325.8214285714286" y="71.0" />
+      <point x="46.5" y="25.5" />
+    </edge>
+    <edge source="FacadePattern.Situation.FriedChicken" target="FacadePattern.Situation.FastFood">
+      <point x="0.0" y="-25.5" />
+      <point x="206.00000000000003" y="81.0" />
+      <point x="263.8214285714286" y="81.0" />
+      <point x="-15.5" y="25.5" />
+    </edge>
+    <edge source="FacadePattern.Situation.FacadePattern" target="FacadePattern.Situation.FastFoodOrder">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="92.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7204724409448819" x="215.5" y="243.99999999999997" />
+  <SelectedNodes>
+    <node>FacadePattern.Situation.FriedChicken</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

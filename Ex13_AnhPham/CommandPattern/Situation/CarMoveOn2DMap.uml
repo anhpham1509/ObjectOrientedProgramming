@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>CommandPattern.Situation</OriginalElement>
+  <nodes>
+    <node x="217.26785714285714" y="178.0">CommandPattern.Situation.Backward</node>
+    <node x="312.2678571428571" y="33.5">CommandPattern.Situation.Command</node>
+    <node x="16.125" y="0.0">CommandPattern.Situation.Car</node>
+    <node x="139.41071428571428" y="325.0">CommandPattern.Situation.CommandPattern</node>
+    <node x="373.26785714285717" y="178.5">CommandPattern.Situation.Stack</node>
+    <node x="61.26785714285714" y="178.0">CommandPattern.Situation.Forward</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="CommandPattern.Situation.Stack" target="CommandPattern.Situation.Command">
+      <point x="72.0" y="-48.0" />
+      <point x="589.2678571428571" y="148.0" />
+      <point x="434.7678571428571" y="148.0" />
+      <point x="52.5" y="25.5" />
+    </edge>
+    <edge source="CommandPattern.Situation.Backward" target="CommandPattern.Situation.Command">
+      <point x="34.0" y="-48.5" />
+      <point x="319.2678571428571" y="158.0" />
+      <point x="364.7678571428571" y="158.0" />
+      <point x="-17.5" y="25.5" />
+    </edge>
+    <edge source="CommandPattern.Situation.CommandPattern" target="CommandPattern.Situation.Backward">
+      <point x="20.875" y="-25.5" />
+      <point x="243.78571428571428" y="295.0" />
+      <point x="285.2678571428571" y="295.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="CommandPattern.Situation.Forward" target="CommandPattern.Situation.Command">
+      <point x="34.0" y="-48.5" />
+      <point x="163.26785714285714" y="148.0" />
+      <point x="329.7678571428571" y="148.0" />
+      <point x="-52.5" y="25.5" />
+    </edge>
+    <edge source="CommandPattern.Situation.Forward" target="CommandPattern.Situation.Car">
+      <point x="-34.0" y="-48.5" />
+      <point x="95.26785714285714" y="158.0" />
+      <point x="110.625" y="158.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="CommandPattern.Situation.CommandPattern" target="CommandPattern.Situation.Stack">
+      <point x="62.625" y="-25.5" />
+      <point x="285.5357142857143" y="305.0" />
+      <point x="517.2678571428571" y="305.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="CommandPattern.Situation.CommandPattern" target="CommandPattern.Situation.Forward">
+      <point x="-20.875" y="-25.5" />
+      <point x="202.03571428571428" y="295.0" />
+      <point x="129.26785714285714" y="295.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="CommandPattern.Situation.CommandPattern" target="CommandPattern.Situation.Car">
+      <point x="-62.625" y="-25.5" />
+      <point x="160.28571428571428" y="305.0" />
+      <point x="26.0" y="305.0" />
+      <point x="26.0" y="158.0" />
+      <point x="47.625" y="158.0" />
+      <point x="-63.0" y="59.0" />
+    </edge>
+    <edge source="CommandPattern.Situation.Backward" target="CommandPattern.Situation.Car">
+      <point x="-34.0" y="-48.5" />
+      <point x="251.26785714285714" y="138.0" />
+      <point x="173.625" y="138.0" />
+      <point x="63.0" y="59.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9217171717171717" x="331.9506849315068" y="188.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

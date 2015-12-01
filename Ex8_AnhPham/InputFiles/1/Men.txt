@@ -1,0 +1,49 @@
+Aadolf, Aapeli, Aapo, Aappo, Aarne, Aarni, Aarno, Aaro, Aaron, Aarre, Aarto, Aatami, Aatos, Aatto, Aatu, Abraham, Adam, Adolf, Ahti, Ahto, Ahvo, Aimo, Ake, Aki, Aki-Jussi, Aki-Mauri, Aki-Petteri, Akira, Akke, Akseli, Aku, Alain, Alan, Alarik, Albert, Alberto, Albin, Ale, Aleksander, Aleksanteri, Aleksei, Aleksi, Aleksis, Alex, Alexander, Alexis, Alf, Alfonso, Alfred, Algot, Ali, Allan, Alpi, Alpo, Altti, Alvar, Alvi, Alvin, Anatoli, Anders, Andre, Andreas, Andrew, Ano, Anselmi, Anselmo, Anssi, Antero, Anton, Antti, Antti-Juhani, Antti-Jussi, Antti-Mikael, Antti-Pekka, Antti-Ville, Antto, Antton, Anttoni, Arhippa, Arho, Ari, Ari-Matti, Ari-Pekka, Armas, Arne, Arno, Arnold, Aron, Arsi, Arthur, Arto, Arttu, Artturi, Artur, Arvi, Arvid, Arvo, Asko, Aslak, Asmo, Asser, Atle, Atro, Atso, Atte, August, Aukusti, Aulis, Auno, Auvo, Axel
+
+Barne, Ben, Bengt, Bengt-Erik, Benjamin, Benny, Bent, Bernd, Bernhard, Bernt, Bernt-Erik, Bert, Bertel, Bertil, Bilund, Birger, Bjarne, Björn, Bo, Bo-Gunnar, Boris, Bror, Bror-Erik, Börje
+
+Calle, Carl, Carl-Eric, Carl-Henrik, Carl-Johan, Carl-Magnus, Casper, Cay, Cesar, Charles, Christer, Christian, Christopher, Claes, Clark, Colin, Conny, Curt
+
+Daavid, Dan, Daniel, Danny, David, Den, Dennis, Dick, Diego, Dimitri, Don, Donald, Douglas
+
+Edgar, Edvard, Edvin, Eelis, Eemeli, Eemil, Eerik, Eerikki, Eero, Eetu, Eevert, Einar, Einari, Eino, Elia, Elias, Eliel, Eljas, Elmer, Elmeri, Elmo, Emanuel, Emil, Ensio, Erik, Erkka, Erkki, Erling, Ermo, Ernesti, Erno, Ernst, Esa, Esaias, Esajuha, Esa-Juhani, Esa-Matti, Esa-Pekka, Eskil, Esko, Esko-Pekka, Eugen, Evald, Evert
+
+Felix, Ferdinand, Filip, Fjalar, Folke, Frank, Franklin, Frans, Franz, Frederik, Fredrik, Fridolf, Fritjof
+
+Gabriel, Georg, George, Gerhard, Gordon, Gottfrid, Greger, Gregorius, Gudmund, Gunnar, Gustaf, Gustav, Gustavo, Göran, Gösta
+
+Hannes, Hannu, Hannu-Pekka, Hans, Hans-Viktor, Harald, Harri, Harry, Harto, Hasse, Hebert, Heikki, Heikki-Antti, Heimo, Heino, Helge, Helmer, Hemming, Hemminki, Hemmo, Henning, Henri, Henrik, Henrikki, Henry, Herkko, Herman, Hermanni, Hiski, Hjalmar, Holger, Hugo, Håkan
+
+Ibrahim, Iikka, Iiro, Iisakki, Iivari, Iivo, Iko, Ilari, Ile, Ilkka, Ilmari, Ilmo, Ilpo, Ilppo, Immanuel, Immo, Ingemar, Inger, Ingmar, Ingvar, Into, Iro, Isak, Isko, Ismo, Isto
+
+Jaakkima, Jaakko, Jaakob, Jaakoppi, Jali, Jalle, Jalmari, Jalo, James, Jami, Jami-Pekka, Jan, Jan-Anders, Jan-Erik, Jani, Jan-Mikael, Janne, Janne-Ville, Jari, Jari-Henri, Jari-Juhani, Jari-Pekka, Jari-Petri, Jarkko, Jarko, Jarl, Jarmo, Jarno, Jaro, Jean, Jean-Erik, Jeesus, Jeff, Jens, Jeppe, Jere, Jeremias, Jerome, Jerry, Jesper, Jesse, Jim, Jimmy, Jirka, Joakim, Joel, Joeli, Johan, Johannes, John, Johnny, Jokke, Jonas, Jonatan, Joni, Joni-Markus, Jonne, Jonni, Jonny, Joona, Joona-Miika, Joonas, Joonatan, Joose, Joosef, Jooseppi, Jori, Jorma, Jose, Josef, Josef, Josua, Jouko, Jouko-Pekka, Jouna, Jouni, Jousia, Juha, Juhamatti, Juha-Matti, Juhana, Juhani, Juha-Pekka, Juha-Petteri, Juho, Juho-Matti, Juho-Mikko, Juho-Ville, Jukka, Jukka-Matti, Jukka-Pekka, Julius, Juri, Jussi, Jussi-Pekka, Juuso, Jyri, Jyrki, Jöran, Jörgen
+
+Kaapo, Kaappo, Kaapro, Kaarle, Kaarlo, Kai, Kai-Erik, Kaj, Kalervo, Kaleva, Kalevi, Kalle, Kalle-Pekka, Kalle-Perttu, Kari, Kari-Jussi, Kari-Matti, Kari-Pekka, Karl, Karl-Erik, Karl-Göran, Karl-Magnus, Karl-Olof, Karri, Kasimir, Kasper, Kasperi, Kauko, Kauno, Keijo, Keimo, Ken, Kennet, Kenneth, Kent, Kerkko, Kim, Kimmo, Kjell, Klaus, Klemetti, Knut, Koitto, Konrad, Konsta, Konstantin, Kosta, Kosti, Kraemer, Krister, Kristian, Kristjan, Kristo, Kristoffer, Kuisma, Kullervo, Kurt, Kurt-Ove, Kustaa, Kustavi, Kusti, Kuura, Kyösti
+
+Lari, Lars, Lars-Eric, Lars-Fredrik, Lars-Henrik, Lars-Olof, Lars-Åke, Lasse, Lassi, Launo, Lauri, Leevi, Leif, Leif-Anders, Lennart, Lenni, Leo, Leon, Leonard, Leonid, Lyly
+
+Magnus, Mainio, Manne, Manu, Manuel, Marco, Marcus, Markko, Markku, Marko, Markus, Martin, Martti, Matias, Mats, Mats-Olof, Matthias, Matti, Mattias, Matti-Jussi, Matts, Matts-Göran, Mauno, Maunu, Mauri, Max, Maxim, Michael, Michail, Mies, Miika, Miikka, Mika, Mikael, Mika-Pekka, Mike, Mikki, Mikko, Mikkomatti, Miro, Miska, Mårten
+
+Nestori, Nicholas, Niilo, Nikita, Niklas, Niko, Nikodemus, Nikolai, Nils, Nisse, Norman, Nuutti, Nyyrikki
+
+Odin, Ohto, Oiva, Oke, Ola, Olav, Olavi, Oleg, Olli, Olli-Jussi, Olli-Pekka, Olof, Onni, Orjo, Orvo, Oskar, Oskari, Osmo, Ossi, Ossian, Osvald, Otso, Otto, Oura, Ove
+
+Paavali, Paavo, Panu, Pasi, Pasi-Heikki, Pasi-Pekka, Patrick, Patrik, Paul, Pauli, Pauno, Pedro, Pekka, Pekka-Tapio, Pekko, Pellervo, Pentti, Per, Per-Erik, Per-Olof, Pertteli, Pertti, Perttu, Peter, Petri, Petri-Tapani, Petrus, Petter, Petteri, Pierre, Pietari, Pirkka, Pontus, Puro, Pyry, Päiviö, Päivö, Pär
+
+Raafael, Rabbe, Rafael, Ragnar, Raimar, Raimo, Raine, Rainer, Raino, Ralf, Rami, Rasmus, Raul, Rauli, Rauno, Ray, Reijo, Reima, Reinhold, Reino, Reko, Richard, Rikard, Rikhard, Riku, Rikumatti, Riku-Matti, Riku-Pekka, Risto, Risto-Matti, Risto-Pekka, Robert, Robin, Roger, Roine, Roland, Rolf, Roman, Ronald, Roni, Ronny, Roope, Roy, Ruben, Rudolf, Rune, Rurik
+
+Sakari, Sakke, Saku, Salomo, Salomon, Sam, Sami, Samipekka, Samipetteri, Sami-Sakari, Sammy, Sampo, Samppa, Sampsa, Samu, Samuel, Samuli, Samu-Petri, Santeri, Santtu, Sasu, Saul, Sauli, Sebastian, Seppo, Severi, Severin, Sigfrid, Sigurd, Silvo, Simo, Simon, Simo-Pekka, Sipi, Sippo, Soini, Stefan, Sten, Sten-Erik, Steve, Stig, Sture, Sulevi, Sulho, Sulo, Sune, Svante, Sven, Sven-Olof, Sverker, Sylvester, Sören
+
+Taavetti, Taavi, Tage, Tahvo, Taisto, Taito, Taneli, Tapani, Tapio, Tarmo, Tarvo, Tatu, Tauno, Teemu, Teijo, Tenho, Teo, Teodor, Teo-Tuomas, Teppo, Terho, Tero, Teuvo, Theo, Theodor, Thomas, Tiberius, Tiitus, Tim, Timo, Timo-Kalevi, Tino, Tobias, Toimi, Toivo, Tom, Tomas, Tomi, Tommi, Tommy, Tomy, Toni, Tony, Topi, Topias, Tor, Torbjörn, Torgny, Torsten, Torsti, Torvald, Totti, Touko, Tryggve, Tuomas, Tuomo, Tupu, Ture, Turjo, Turkka, Turo, Tuukka, Tuure
+
+Ukko, Ulf, Uljas, Ulle, Ulrik, Untama, Untamo, Unto, Uolevi, Uoti, Urban, Urho, Urmas, Urpo, Usko, Uuno, Uuras, Uve
+
+Valdemar, Valentin, Valfrid, Valio, Valo, Valter, Valto, Valtter, Valtteri, Veijo, Veikka, Veikko, Veini, Veli, Veli-Heikki, Veli-Ilkka, Veli-Jukka, Veli-Jussi, Veli-Matti, Velipekka, Veli-Pekka, Veli-Petteri, Verner, Verneri, Vesa, Vesa-Matti, Vesa-Pekka, Vesa-Valtteri, Victor, Vihtori, Viktor, Vilhelm, Vilho, Vili, Vili-Petteri, Viljami, Viljo, Ville, Ville-Pekka, Ville-Veikko, Vilppu, Visa, Visa-Mikko, Voitto, Väinämö, Väinö
+
+Ylermi, Yngvar, Yngve, Yrjänä, Yrjö
+
+Zacharias 
+
+Åke 
+
+Östen
